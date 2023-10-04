@@ -1,10 +1,10 @@
-# Hi there, I'm [GOUTHAMI K] 👋
+# Hi there, I'm GOUTHAMI K 👋
 
 Welcome to my GitHub profile! I'm a passionate and aspiring data scientist with a strong foundation in key skills required for this exciting field. In this README, I'll introduce myself and share the languages and skills I've been developing.
 
 ## About Me
 
-- 🎓 I recently graduated with a [Masters Degree] from [CHRIST UNIVERSITY].
+- 🎓 I recently graduated with a Masters Degree from [CHRIST UNIVERSITY].
 - 📚 I have a strong academic background in mathematics and statistics, which I believe is essential for data science.
 - 💡 I'm highly motivated to solve real-world problems using data-driven insights.
 - 👩‍💻 I'm eager to learn, collaborate, and contribute to data science projects.
@@ -29,7 +29,7 @@ I'm proficient in the following key skills required for data science:
 
 I'm always open to learning, collaborating, and connecting with fellow data enthusiasts. Feel free to reach out to me through:
 
-- Email: [gouthamikrishnamurthy@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/gouthami-krishnamurthy/]
+- Email: gouthamikrishnamurthy@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gouthami-krishnamurthy/
 
 Thank you for visiting my GitHub profile, and I'm excited to embark on this data science journey together!
