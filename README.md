@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gouthami K
+# 👋 Hi, I’m Gouthami K
 - 👀 I’m interested in pursuing career as Data Scientist
 - 🌱 I’m currently looking for Data Science job opportunities
 - 📫 How to reach me gouthamikrishnamurthy@gmail.com
