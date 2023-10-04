@@ -1,35 +1,50 @@
-# Hi there, I'm GOUTHAMI K 👋
+<!-- Title -->
+<h1 align="center">Hello, I'm [Your Name]</h1>
 
-Welcome to my GitHub profile! I'm a passionate and aspiring data scientist with a strong foundation in key skills required for this exciting field. In this README, I'll introduce myself and share the languages and skills I've been developing.
+<!-- Subtitle -->
+<h3 align="center">Aspiring Data Scientist | [Your Location]</h3>
 
-## About Me
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://your-image-url-here.com" alt="Your Name" width="200">
+</p>
 
-- 🎓 I recently graduated with a Masters Degree in MATHEMATICS from CHRIST UNIVERSITY.
-- 📚 I have a strong academic background in mathematics and statistics, which I believe is essential for data science.
-- 💡 I'm highly motivated to solve real-world problems using data-driven insights.
-- 👩‍💻 I'm eager to learn, collaborate, and contribute to data science projects.
+<!-- About Me -->
+<p align="center">
+  Welcome to my GitHub profile! I'm passionate about data science and its applications. I am a fresher with a strong foundation in data analysis and machine learning.
+</p>
 
-## Skills
+<!-- Skills -->
+<h3 align="center">Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Intermediate-yellow?logo=python">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Intermediate-yellowgreen">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-yellowgreen">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Intermediate-yellow">
+  <img src="https://img.shields.io/badge/SQL-Beginner-orange">
+</p>
 
-I'm proficient in the following key skills required for data science:
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true" alt="GitHub Stats">
+</p>
 
-1. **Python**: Python is my primary programming language, and I use it for data manipulation, analysis, and machine learning. I'm comfortable with libraries like NumPy, Pandas, Matplotlib, and Scikit-Learn.
+<!-- Connect with Me -->
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=email">
+  </a>
+</p>
 
-2. **SQL**: I can write SQL queries to extract and manipulate data from relational databases, a crucial skill for working with real-world datasets.
+<!-- Footer -->
+<p align="center">
+  Thanks for visiting my profile! Feel free to explore my projects and connect with me.
+</p>
 
-3. **Data Analysis**: I can clean, preprocess, and analyze data to derive meaningful insights. Exploratory Data Analysis (EDA) is one of my strengths.
-
-4. **Machine Learning**: I have a basic understanding of machine learning concepts and have implemented various algorithms for classification and regression tasks.
-
-5. **Data Visualization**: I can create informative and visually appealing data visualizations using tools like Matplotlib, Seaborn, and ggplot2.
-
-6. **Version Control**: I'm familiar with Git and GitHub for version control and collaboration on coding projects.
-
-## Contact Me
-
-I'm always open to learning, collaborating, and connecting with fellow data enthusiasts. Feel free to reach out to me through:
-
-- Email: gouthamikrishnamurthy@gmail.com
-- LinkedIn: https://www.linkedin.com/in/gouthami-krishnamurthy/
-
-Thank you for visiting my GitHub profile, and I'm excited to embark on this data science journey together!
