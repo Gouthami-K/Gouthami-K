@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring data scientist with 
 
 ## About Me
 
-- 🎓 I recently graduated with a Masters Degree from [CHRIST UNIVERSITY].
+- 🎓 I recently graduated with a Masters Degree in MATHEMATICS from CHRIST UNIVERSITY.
 - 📚 I have a strong academic background in mathematics and statistics, which I believe is essential for data science.
 - 💡 I'm highly motivated to solve real-world problems using data-driven insights.
 - 👩‍💻 I'm eager to learn, collaborate, and contribute to data science projects.
