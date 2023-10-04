@@ -29,7 +29,7 @@ I'm proficient in the following key skills required for data science:
 
 I'm always open to learning, collaborating, and connecting with fellow data enthusiasts. Feel free to reach out to me through:
 
-- Email: [your.email@example.com](mailto:gouthamikrishnamurthy@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gouthami-krishnamurthy/)
+- Email: [gouthamikrishnamurthy@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/gouthami-krishnamurthy/]
 
 Thank you for visiting my GitHub profile, and I'm excited to embark on this data science journey together!
