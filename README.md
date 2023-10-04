@@ -24,9 +24,14 @@
   <img src="https://img.shields.io/badge/SQL-Beginner-orange">
 </p>
 
-<!-- GitHub Stats -->
+<!-- Tools & Languages -->
+<h3 align="center">Tools & Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true" alt="GitHub Stats">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter">
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visual-studio-code">
+  <img src="https://img.shields.io/badge/NumPy-Library-blue?logo=numpy">
+  <img src="https://img.shields.io/badge/Pandas-Library-blue?logo=pandas">
+  <img src="https://img.shields.io/badge/Scikit%20Learn-Library-blue?logo=scikit-learn">
 </p>
 
 <!-- Connect with Me -->
@@ -47,4 +52,3 @@
 <p align="center">
   Thanks for visiting my profile! Feel free to explore my projects and connect with me.
 </p>
-
